@@ -6,6 +6,8 @@ __pycache__/
 # C extensions
 *.so
 
+enron_mail_20150507.tar.gz
+
 # Distribution / packaging
 .Python
 build/
